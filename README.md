@@ -1,6 +1,5 @@
 # card-doProduto
 
-file:///home/noteubuntuses/Downloads/card-deProduto.mp4
 
 Projeto realizado em HTML + CSS
 
